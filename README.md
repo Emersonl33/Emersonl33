@@ -1,9 +1,9 @@
-### Hello! I'm Emerson.👋
+### Hello! I'm Emerson👋
 ##
  
 - I’m a Software Engineer.
  
-- I'm into Science, Physics, Coding and others nerd stuff!
+- I'm into Science, Physics, Coding and other nerd stuff!
  
 - I've been developing projects using Java, Kotlin, Python and other technologies.
   
