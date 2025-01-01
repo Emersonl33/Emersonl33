@@ -5,7 +5,7 @@
  
 - I'm into Science, Physics, Coding and other nerd stuff!
  
-- I've been developing projects using Java, Kotlin, C# and other funny technologies!
+- I've been developing projects using Java, Kotlin, AWS and other funny technologies!
   
 - I'm Dedicated to producing high-quality code that meet the needs of users and clients.
  
