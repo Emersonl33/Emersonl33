@@ -7,7 +7,7 @@
  
 - I've been developing projects using Java, Kotlin, AWS and other fun technologies!
   
-- I'm Dedicated to producing high-quality code that meet the needs of users and clients.
+- I'm Dedicated to producing high-quality code that meets the needs of users and clients.
  
 ##
 <div align="flex-start">
