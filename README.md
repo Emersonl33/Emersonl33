@@ -1,13 +1,11 @@
 ### Hello! I'm Emerson👋
 ##
  
-- I’m a Software Engineer.
+- I’m a Quality Assurance Engineer.
  
 - I'm into Science, Physics, Coding and other nerd stuff!
  
 - I've been developing projects using Java, Kotlin, AWS and other fun technologies!
-  
-- I'm Dedicated to producing high-quality code that meets the needs of users and clients.
  
 ##
 <div align="flex-start">
